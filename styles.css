@@ -7,8 +7,8 @@ table,tr,td,th{
 	
 }
 th{
-	padding-right:75px
+	padding-right:85px
 }
-td{
+tr+td{
 	padding-left:75px;
 }
